@@ -18,7 +18,6 @@ public class Student extends Aplicant {
 		this.anStudii = anStudii;
 	}
 
-
 	public String getFacultate() {
 		return facultate;
 	}

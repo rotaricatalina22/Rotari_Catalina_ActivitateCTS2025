@@ -53,7 +53,7 @@ public abstract class Aplicant {
 		this.denumireProiect = denumireProiecte;
 	}
 
-	public void afiseazaStatutAplicant(){
+	public void afiseazaStatutAplicant() {
 		if(punctaj>80) {
 			System.out.println("Aplicantul " + nume + " "+prenume + " a fost acceptat.");
 		} else {
