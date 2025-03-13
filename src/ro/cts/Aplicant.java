@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package ro.cts;
 
 public abstract class Aplicant {
 	protected String nume;
