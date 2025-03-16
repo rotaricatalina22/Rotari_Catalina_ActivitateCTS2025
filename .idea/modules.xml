@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cts.iml" filepath="$PROJECT_DIR$/cts.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar3/seminar3.iml" filepath="$PROJECT_DIR$/seminar3/seminar3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar3_suplimentar_Singleton/seminar3_suplimentar_Singleton.iml" filepath="$PROJECT_DIR$/seminar3_suplimentar_Singleton/seminar3_suplimentar_Singleton.iml" />
     </modules>
   </component>
 </project>
